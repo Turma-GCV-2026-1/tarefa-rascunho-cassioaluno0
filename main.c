@@ -2,5 +2,6 @@
 
 int main() {
     printf("Hello, World!\n");
+    printf("Atualização Aluno!\n");
     return 0;
 }
