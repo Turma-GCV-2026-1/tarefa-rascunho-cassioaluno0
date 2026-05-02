@@ -13,6 +13,8 @@ int main() {
     printf("Conteudo da Linha 9\n");
 
     printf("Conteudo da Linha Adicionado na atividade\n");
+    printf("NOVA - Conteudo da Linha Adicionado na atividade\n");
+
     return 0;
 
 
